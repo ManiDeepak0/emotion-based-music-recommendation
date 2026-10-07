@@ -1,0 +1,6 @@
+numpy
+opencv-python
+imutils
+tensorflow
+keras
+playsound==1.2.2
